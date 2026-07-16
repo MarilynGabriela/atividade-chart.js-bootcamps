@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Cadastrar um autor</h1>
+    <div class="div-form">
+        <form id="form_postagem" method="post">
+            <label>
+                Nome:
+                <br>
+                <input name="nome" id="nome" maxlength="100" type="text">
+            </label>
+            <br>
+
+            <button>Cadastrar</button>
+
+</body>
+
+</html>
+
+<script>
+    let vtr_verificar = [];
+
+    function cadastrar() {
+
+        var corpo = {
+            nome: form_postagem.nome.value
+        }
+        /*----------------------*/
+        vtr_verificar.push(corpo);
+
+        // for (let i = 0; i < corpo.nome.length; i++) {
+
+        //     if (corpo.nome.length(i) == "@") {
+        //         alert(`O nome nome do autpr não pode ter laços de repetição!`);
+        //         return;
+
+        //     }
+
+        // }
+    }
+</script>

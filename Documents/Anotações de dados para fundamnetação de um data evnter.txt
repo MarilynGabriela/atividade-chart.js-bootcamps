@@ -1,0 +1,31 @@
+quanto tempo um datacenters demora pra superaquecer
+quantas empresas ja sofreram
+quanto o monitoramento reduz as perdas
+
+------------------------------
+ Estima-se, inclusive, que até 40% do consumo energético total de um data center seja destinado ao seu resfriamento, conforme notícia publicada no portal IT Forum, especializado em tecnologia.
+
+https://www.alemdaenergia.engie.com.br/superaquecimento-ameaca-data-centers-na-era-da-ia/
+------------------------------------------------
+quanto tempo um datacenters demora pra superaquecer
+
+Um datacenter pode começar a superaquecer em questão de minutos (frequentemente entre 5 a 15 minutos) após uma falha total no sistema de refrigeração.(IA google)
+
+https://zeittec.com.br/refrigeracao-liquida-em-data-centers/#:~:text=para%20liquid%20cooling%E2%80%9D.-,Vantagens%20da%20refrigera%C3%A7%C3%A3o%20l%C3%ADquida%20em%20Data%20Centers,os%20componentes%20do%20Data%20Center.
+--------------------------------------------------------
+datacenters já consomem atualmente de 1% a 2% da energia global, com expectativa de chegar a 3% nos próximos anos.
+
+Fonte: https://canalsolar.com.br/datacenters-oportunidades-negocios-nordeste/
+-----------------------------------------------------------------------------------------
+https://arsec.com.br/controle-de-umidade-em-data-centers-e-servidores-seguranca-digital-comeca-pelo-ar/
+
+
+ 
+
+https://cc-techgroup.com/server-room-humidity/#:~:text=Voc%C3%AA%20sabia%20que%20a%20umidade,a%20cada%20sistema%20de%20refrigera%C3%A7%C3%A3o. 
+
+
+
+https://drome.com.br/iot-monitoramento-umidade-data-centers/#:~:text=Riscos%20de%20umidade%20descontrolada%20em,em%20backups%20devido%20%C3%A0%20oxida%C3%A7%C3%A3o 
+
+Segundo orientações divulgadas pela American Society of Heating, Refrigerating and Air Conditioning Engineers (ASHRAE), o ideal é que as novas centrais de dados sejam resfriadas a temperaturas entre 18 °C e 27 °C, com uma umidade no ar que varie entre 40% e 55%.
