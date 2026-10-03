@@ -1,0 +1,24 @@
+{
+  "lab_id": "SON-DOCKER-LAB4-20261",
+  "aws_account_id": "655241879620",
+  "instance_id": "i-02db013aa00f8b965",
+  "instance_type": "t3.medium",
+  "region": "us-east-1",
+  "vcpu": 2,
+  "ram_mb": 4096,
+  "disk_gb": 25,
+  "security_group_id": "sg-0ee8a4b573d615ad1",
+  "security_group_name": "SG-RUC",
+  "ssh_rule_found": true,
+  "ssh_port": 22,
+  "ssh_ipv4_cidrs": [
+    "177.92.67.154/32"
+],
+  "mysql_rule_found": true,
+  "mysql_port": 3306,
+  "mysql_ipv4_cidrs": [
+    "177.92.67.154/32"
+],
+  "timestamp_utc": "2026-09-29T17:25:36Z",
+  "validation_hash": "3628a68d668d1d18d7d7b1090614c61cccae9b78a2c444af9f7d47ec37c36ffd"
+}

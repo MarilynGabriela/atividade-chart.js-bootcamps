@@ -1,5 +1,5 @@
 <p align="start">
-  <img src="public/assets/Banners/banner-readme.png" width="300">
+  <img src="docs/banner.png" width="250">
 </p>
 
 # Tierra de Recuerdos:  

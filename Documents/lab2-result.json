@@ -1,0 +1,18 @@
+{
+  "lab_id": "SON-EC2-LAB2-20261",
+  "aws_account_id": "655241879620",
+  "instance_id": "i-024307734b0dd8dcc",
+  "instance_type": "t3.small",
+  "region": "us-east-1",
+  "vcpu": 2,
+  "ram_mb": 2048,
+  "disk_gb": 20,
+  "security_group_id": "sg-0054ac4db28d89a79",
+  "security_group_name": "SG-LAB2",
+  "ssh_rule_found": true,
+  "ssh_ipv4_cidrs": [
+    "186.203.218.69/32"
+],
+  "timestamp_utc": "2026-09-02T09:54:39Z",
+  "validation_hash": "744d525ddf2636a390c7bc028135aab7bc09013ee1df3bc8adc067355a56a6fb"
+}

@@ -1,0 +1,12 @@
+{
+  "lab_id": "SON-EC2-LAB1-20261",
+  "aws_account_id": "655241879620",
+  "instance_id": "i-0b7d63a4cfa7ab0fc",
+  "instance_type": "t3.small",
+  "region": "us-east-1",
+  "vcpu": 2,
+  "ram_mb": 2048,
+  "disk_gb": 20,
+  "timestamp_utc": "2026-09-02T02:06:56Z",
+  "validation_hash": "3ce4fb91beb61adcae4a0329d5b9082fe8dc4a7f023ef95ed925b17cb80c20a1"
+}

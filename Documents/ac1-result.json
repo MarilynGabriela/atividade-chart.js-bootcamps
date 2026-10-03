@@ -1,0 +1,18 @@
+{
+  "lab_id": "SON-AC1-ATAPAS-20262",
+  "aws_account_id": "655241879620",
+  "instance_id": "i-0b1bec82ac986f4fa",
+  "instance_type": "t3.medium",
+  "region": "us-east-1",
+  "vcpu": 2,
+  "ram_mb": 4096,
+  "disk_gb": 25,
+  "security_group_id": "sg-0a3a3576bb83b2a74",
+  "security_group_name": "SG-ATAPAS-03261046",
+  "ssh_rule_found": true,
+  "ssh_ipv4_cidrs": ["177.92.67.154/32"],
+  "mysql_rule_found": true,
+  "mysql_ipv4_cidrs": ["177.92.67.154/32"],
+  "timestamp_utc": "2026-09-02T14:43:22Z",
+  "validation_hash": "7104c02cf6d9c39305e1f434ad366b11c2475e919166f115871c0c8f394c0d7c"
+}
